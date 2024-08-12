@@ -34,9 +34,9 @@ export default function Home() {
                     A
                   </div>
                   <div>
-                    <h4>Hamed Bahram</h4>
+                    <h4>Abdulqadir Mohamed</h4>
                     <p className="mt-1 line-clamp-2 text-xs text-muted-foreground">
-                      Software developer and content creator from Canada.
+                      Software developer and content creator from Somalia.
                     </p>
                   </div>
                 </div>

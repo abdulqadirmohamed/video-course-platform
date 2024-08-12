@@ -18,7 +18,7 @@ const page = () => {
               <h3 className='text-xl font-semibold'>Learn NextJs</h3>
             </div>
             <p className='text-xs font-light text-muted-foreground'>
-              By <span>By Hamed Bahram</span>
+              By <span>Abdulqadir Mohamed</span>
             </p>
             <div className='mt-4 text-sm text-muted-foreground'>
             Unlock the potential of Next.js with this in-depth course tailored for web developers. Learn how to create fast, SEO-friendly, and scalable web applications using Next.js. Explore server-side rendering, static site generation, API routes, and advanced routing techniques. Gain practical experience through hands-on projects and real-world examples, preparing you to build production-ready applications with ease and efficiency.

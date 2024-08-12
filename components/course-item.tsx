@@ -20,7 +20,7 @@ function CourseItem() {
             <div>
               <div className="text-xl font-semibold">Learn TypeScript</div>
               <p className="text-xs font-light text-muted-foreground">
-                By <span>Hamed Bahram</span>
+                By <span>Abdulqadir Mohamed</span>
               </p>
             </div>
           </CardTitle>
